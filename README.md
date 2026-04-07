@@ -7,7 +7,3 @@ sampai ujian online.
 - PHP native
 - mysql
 - xampp
-  
-## Cara Install
-1. Clone repo
-   git clone https://github.com/username/nama-project.git
